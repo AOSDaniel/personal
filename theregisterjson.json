@@ -1,4 +1,4 @@
-{
+[{
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
   "lighthouseVersion": "3.0.3",
   "fetchTime": "2018-08-01T12:35:04.318Z",
@@ -3894,4 +3894,4 @@
   "timing": {
     "total": 13712
   }
-}
+}]
