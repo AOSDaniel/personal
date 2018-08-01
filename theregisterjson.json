@@ -1,4 +1,4 @@
-{
+[{
   "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Mobile Safari/537.36",
   "lighthouseVersion": "3.0.3",
   "fetchTime": "2018-07-23T11:06:56.267Z",
@@ -3837,4 +3837,4 @@
   "timing": {
     "total": 35585
   }
-}
+}]
