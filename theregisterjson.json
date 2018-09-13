@@ -4,7 +4,6 @@
   "fetchTime": "2018-08-01T12:35:04.318Z",
   "requestedUrl": "https://www.theregister.co.uk/",
   "finalUrl": "https://www.theregister.co.uk/",
-  "runWarnings": [],
   "audits": {
     "is-on-https": {
       "id": "is-on-https",
